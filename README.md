@@ -24,6 +24,6 @@ Para este apartado, hemos tomado todos los asset de calabazas que habíamos colo
 ---
 
 ### Ejercicio 3.
-Para este último ejercicio, hemos tomado creado un nuevo [script](scripts/AtraeRecolectables.cs) que en este caso, se encarga de activar un evento cuando se mira directamente al objeto al que está unido. Por otro lado, también ha sido necesario crear [otro script](scripts/DesplazaObjeto.cs) que moviera las calabazas hasta el espantapájaros.
+Para este último ejercicio, hemos creado un nuevo [script](scripts/AtraeRecolectables.cs) que, en este caso, se encarga de activar un evento cuando se mira directamente al objeto al que está unido. Por otro lado, también ha sido necesario crear [otro script](scripts/DesplazaObjeto.cs) que moviera las calabazas hasta el espantapájaros.
 
 ![](gifs/Ejercicio3.gif)
